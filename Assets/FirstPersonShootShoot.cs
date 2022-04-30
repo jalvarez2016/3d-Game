@@ -79,7 +79,6 @@ public class FirstPersonShootShoot : MonoBehaviour
         // Calculate direction from attackPoint to targetPoint
         // Vector3 directionWithoutSpread = targetPoint - attackPoint.position;
         Vector3 directionWithoutSpread = targetPoint - player.transform.position;
-        Debug.Log(targetPoint);
 
         // Calculate Spread
         float x = Random.Range(-spread, spread);

@@ -98,6 +98,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WoofBullet
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d5fa4e695bd7c8d4d859814ed8bc4528, type: 3}
+      propertyPath: m_TagString
+      value: Projectile
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d5fa4e695bd7c8d4d859814ed8bc4528, type: 3}
 --- !u!1 &215465713852440433 stripped
